@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "name": "Restaurant 1",
+      "isVegetarian": false,
+      "cuisine": "Test Cuisine",
+      "image": "https://prod-wolt-venue-images-cdn.wolt.com/5b348b31fe8992000bbec771/2be8c7738b220df2f9a0974da5c90d90",
+      "rating": 4,
+      "location": "Velacherry"
+    },
+    {
+      "id": "2",
+      "name":"Restaurant 2",
+      "isVegetarian": false,
+      "cuisine": "Test Cuisine",
+      "image": "https://prod-wolt-venue-images-cdn.wolt.com/5ad7050b879256000b477e16/705b6f09e5e4b33779b45afffb994cac",
+      "rating": 3,
+      "location": "Okkiyampet"
+    },
+    {
+      "id": "3",
+      "name": "Restaurant 3",
+      "isVegetarian": false,
+      "cuisine": "Test Cuisine",
+      "image": "https://prod-wolt-venue-images-cdn.wolt.com/5d63b2f947e0db48e4c19e46/f790340eaf6cce48712fd7a0887ba65c",
+      "rating": 4,
+      "location": "Karapakkam"
+    },
+    {
+      "id": "4",
+      "name": "Restaurant 4",
+      "isVegetarian": true,
+      "cuisine": "Test Cuisine",
+      "image": "https://prod-wolt-venue-images-cdn.wolt.com/5de0e07c8995dc9c25304c9f/7680cf2cffae35b7302e3a91b65ce8f5",
+      "rating": 5,
+      "location": "SRP Tools"
+    },
+    {
+      "id": "5",
+      "name": "Restaurant 5",
+      "isVegetarian": true,
+      "cuisine": "Test Cuisine",
+      "image": "https://prod-wolt-venue-images-cdn.wolt.com/568f89054f2a1574b0bf0d21/ba4c91a913aa4e7bee2157d26800f9d3",
+      "rating": 5,
+      "location": "Thiruvanmiyur"
+    }
+  ]
